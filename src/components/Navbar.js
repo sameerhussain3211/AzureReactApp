@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-// import controlledSwitches from './ToggleSwitch';
 import ToggleSwitch from './ToggleSwitch';
 
 export default function Navbar(props) {
